@@ -10,5 +10,5 @@ This repository contains the documentation for each class in the Full Stack Web 
 4. [Class 04: Java While Loop, For Loop, Break/Continue, and Arrays](./Class04/Readme.md)
 5. [Class 05: Dart Programming ](./Class05/Readme.md)
 6. [Class 06: Dart Programming](./Class06/Readme.md)
-7. [Class 07: ](./Class07/Readme.md)
-8. [Class 08: ](./Class08/Readme.md)
+7. [Class 07: Object-Oriented Programming in Dart](./Class07/Readme.md)
+8. [Class 08: Introduction to Flutter](./Class08/Readme.md)
